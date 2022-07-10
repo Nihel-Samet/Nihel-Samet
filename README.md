@@ -1,4 +1,8 @@
-### Hi there 👋
+:small_blue_diamond: 👋 Hi there, I’m Nihel! I'm an aspiring data analyst trying to land my first position in this field. 
+
+:small_blue_diamond: 🌱 I’m interested in sharing my projects using various tools (R, Python, SQL). 
+
+:small_blue_diamond: :e-mail: Feel free to email me: nihelsamet98@gmail.com
 
 <!--
 **Nihel-Samet/Nihel-Samet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
