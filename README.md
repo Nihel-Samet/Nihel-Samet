@@ -1,7 +1,9 @@
 :small_blue_diamond: 👋 Hi there, I’m Nihel! I'm an aspiring data analyst trying to land my first position in this field. 
 
 :small_blue_diamond: 🌱 I’m interested into showcasing my skills and sharing my knowledge by posting projects using various tools (R, Python, SQL). 
-
+            
+🔸 Skills level: R: Advanced intermediate   /   SQL (PostgreSQL, MySQL): Intermediate    /   Python: Beginner   /    Power BI: Beginner
+ 
 :small_blue_diamond: ⚡ I still consider myself new to the field, so if you have comments about my work please reach out to me.
 
 :small_blue_diamond: :e-mail: Feel free to email me: nihelsamet98@gmail.com
